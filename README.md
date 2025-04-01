@@ -21,9 +21,6 @@ Database Name: tiktok-clone
 ### App Setup 
 
 
-git clone https://github.com/Hemant7499/tiktok-techjam-2024
-
-
 1. Setup an Appwrite account
 2. rename .env.example to .env
 3. Fill out credentials from Appwrite
